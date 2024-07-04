@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CadeMorris37
+- 👀 I’m interested in Building games and apps by myself.
+- 🌱 I’m currently learning: CSS
+- 📫 How to reach me: cadealexandermorris@gmail.com
